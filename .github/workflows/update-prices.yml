@@ -1,9 +1,9 @@
 name: Обновить цены и скидки
 
+# kupi.cz блокирует серверы GitHub (403), поэтому цены обновляются с домашнего компьютера
+# (scripts/update_and_push.ps1). Здесь остаётся только ручной запуск — на случай, если блок снимут.
 on:
-  schedule:
-    - cron: '15 4 * * *'   # каждый день в 05:15 по Праге (зимой)
-  workflow_dispatch:        # кнопка «Run workflow» для ручного запуска
+  workflow_dispatch:
 
 permissions:
   contents: write
