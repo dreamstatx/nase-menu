@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f6f2">
+  <meta name="description" content="Меню на неделю под ваш бюджет с учётом скидок в магазинах, рецепты и список покупок.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Наше меню</title>
+</head>
+<body>
+  <!-- Загрузка -->
+  <div id="splash" class="splash"><div class="logo-tile">🍲</div><b>Наше меню</b><span>Загружаю рецепты и скидки…</span></div>
+
+  <!-- Анкета -->
+  <section id="wizard" class="wizard hidden" aria-live="polite">
+    <header class="wiz-top">
+      <button class="round-btn" id="wiz-back" aria-label="Назад">‹</button>
+      <div class="wiz-progress"><i id="wiz-bar"></i></div>
+      <span class="wiz-step" id="wiz-step">1/8</span>
+    </header>
+    <div class="wiz-body" id="wiz-body"></div>
+    <footer class="wiz-foot"><button class="cta" id="wiz-next">Дальше</button></footer>
+  </section>
+
+  <!-- Основное приложение -->
+  <div id="app" class="app hidden">
+    <main class="main">
+      <section id="view-week" class="view"></section>
+      <section id="view-shop" class="view hidden"></section>
+      <section id="view-recipes" class="view hidden"></section>
+      <section id="view-profile" class="view hidden"></section>
+    </main>
+    <nav class="tabs" aria-label="Разделы">
+      <button data-tab="week" class="on"><span>🗓️</span>Неделя</button>
+      <button data-tab="shop"><span>🛒<b class="badge" id="tab-badge"></b></span>Покупки</button>
+      <button data-tab="recipes"><span>📖</span>Рецепты</button>
+      <button data-tab="profile"><span>⚙️</span>Профиль</button>
+    </nav>
+  </div>
+
+  <dialog id="sheet" class="sheet"><div id="sheet-body"></div></dialog>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>
