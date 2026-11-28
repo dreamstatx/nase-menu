@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:37+00:00",
+ "updated": "2026-11-28T12:44+00:00",
  "source": "kupi.cz — акции из летаков чешских сетей",
  "failed": [],
  "items": {
@@ -28,8 +28,8 @@
      "discountPct": 54,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -148,6 +148,19 @@
      "pack": "0.6 kg",
      "perUnit": "99,83 Kč / 1 kg",
      "discountPct": 20,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
+     "shop": "FLOP",
+     "product": "Kuřecí stehna Vodňanské kuře",
+     "price": 59.9,
+     "pack": "0.6 kg",
+     "perUnit": "99,83 Kč / 1 kg",
+     "discountPct": null,
      "club": false,
      "validFrom": null,
      "validTo": "2026-12-01",
@@ -285,8 +298,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -298,8 +311,8 @@
      "discountPct": 26,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -402,8 +415,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -459,8 +472,8 @@
      "discountPct": 22,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -472,8 +485,8 @@
      "discountPct": 25,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -498,8 +511,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -620,8 +633,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -651,8 +664,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -747,8 +760,8 @@
      "discountPct": 20,
      "club": false,
      "validFrom": null,
-     "validTo": null,
-     "validText": "zítra končí",
+     "validTo": "2026-11-28",
+     "validText": "dnes končí",
      "future": false
     },
     {
@@ -843,8 +856,8 @@
      "discountPct": 65,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -882,8 +895,8 @@
      "discountPct": 26,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1030,21 +1043,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
-     "future": false
-    },
-    {
-     "shop": "Albert",
-     "product": "Losos Kisuč filet Albert",
-     "price": 39.9,
-     "pack": "100 g",
-     "perUnit": "39,90 Kč / 100 g",
-     "discountPct": 20,
-     "club": false,
-     "validFrom": null,
-     "validTo": "2026-12-01",
-     "validText": "do úterý 1. 12.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1113,6 +1113,19 @@
      "future": false
     },
     {
+     "shop": "FLOP",
+     "product": "Losos filety mražený Mylord",
+     "price": 129.9,
+     "pack": "500 g",
+     "perUnit": "25,98 Kč / 100 g",
+     "discountPct": null,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
      "shop": "Ratio",
      "product": "Losos filety mražený",
      "price": 132.9,
@@ -1134,8 +1147,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1156,6 +1169,19 @@
   "white_fish": {
    "query": "filé treska",
    "offers": [
+    {
+     "shop": "FLOP",
+     "product": "Aljašská treska filé bez kosti mražené Premium Mylord",
+     "price": 69.9,
+     "pack": "300 g",
+     "perUnit": "23,30 Kč / 100 g",
+     "discountPct": null,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
     {
      "shop": "Albert",
      "product": "Aljašská treska filé mražená Albert",
@@ -1383,8 +1409,8 @@
      "discountPct": 58,
      "club": true,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1422,8 +1448,8 @@
      "discountPct": 40,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1435,8 +1461,8 @@
      "discountPct": 41,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1474,8 +1500,8 @@
      "discountPct": 50,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1487,8 +1513,8 @@
      "discountPct": 44,
      "club": true,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1616,19 +1642,6 @@
     {
      "shop": "Albert",
      "product": "Mléko trvanlivé Jihočeské Madeta - 3,5% plnotučné",
-     "price": 10.9,
-     "pack": "1 l",
-     "perUnit": "10,90 Kč / 1 l",
-     "discountPct": 60,
-     "club": false,
-     "validFrom": null,
-     "validTo": "2026-12-01",
-     "validText": "do úterý 1. 12.",
-     "future": false
-    },
-    {
-     "shop": "Albert",
-     "product": "Mléko trvanlivé Jihočeské Madeta - 3,5% plnotučné",
      "price": 11.9,
      "pack": "1 l",
      "perUnit": "11,90 Kč / 1 l",
@@ -1690,6 +1703,19 @@
      "validTo": "2026-12-01",
      "validText": "do úterý 1. 12.",
      "future": false
+    },
+    {
+     "shop": "FLOP TOP",
+     "product": "Mléko trvanlivé Jihočeské Madeta - 3,5% plnotučné",
+     "price": 21.9,
+     "pack": "1 l",
+     "perUnit": "21,90 Kč / 1 l",
+     "discountPct": 15,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
     }
    ]
   },
@@ -1718,8 +1744,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -1731,8 +1757,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -2318,8 +2344,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -2353,8 +2379,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -2701,8 +2727,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -2836,8 +2862,21 @@
      "discountPct": 28,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
+     "future": false
+    },
+    {
+     "shop": "FLOP",
+     "product": "Bílý jogurt Dr.Halíř",
+     "price": 9.9,
+     "pack": "150 g",
+     "perUnit": "6,60 Kč / 100 g",
+     "discountPct": null,
+     "club": false,
+     "validFrom": null,
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -2904,19 +2943,6 @@
      "validTo": "2026-12-08",
      "validText": "do úterý 8. 12.",
      "future": false
-    },
-    {
-     "shop": "Ratio",
-     "product": "Bílý jogurt Opočenský Bohemilk",
-     "price": 12.5,
-     "pack": "150 g",
-     "perUnit": "8,33 Kč / 100 g",
-     "discountPct": null,
-     "club": false,
-     "validFrom": null,
-     "validTo": "2026-11-30",
-     "validText": "do pondělí 30. 11.",
-     "future": false
     }
    ]
   },
@@ -2958,8 +2984,8 @@
      "discountPct": 20,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -3067,12 +3093,12 @@
      "future": false
     },
     {
-     "shop": "Penny",
-     "product": "Chléb Sporty Fit den Penam",
-     "price": 34.9,
-     "pack": "350 g",
-     "perUnit": "9,97 Kč / 100 g",
-     "discountPct": 22,
+     "shop": "FLOP",
+     "product": "Chléb podmáslový Odkolek",
+     "price": 32.9,
+     "pack": "500 g",
+     "perUnit": "6,58 Kč / 100 g",
+     "discountPct": null,
      "club": false,
      "validFrom": null,
      "validTo": "2026-12-01",
@@ -3656,8 +3682,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -3900,8 +3926,8 @@
      "discountPct": 21,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -4071,6 +4097,19 @@
      "future": false
     },
     {
+     "shop": "FLOP",
+     "product": "Bujón Maggi",
+     "price": 22.9,
+     "pack": "60 g",
+     "perUnit": "38,17 Kč / 100 g",
+     "discountPct": null,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
      "shop": "COOP",
      "product": "Bujón Kucharek",
      "price": 24.9,
@@ -4147,19 +4186,6 @@
      "validTo": "2026-12-01",
      "validText": "do úterý 1. 12.",
      "future": false
-    },
-    {
-     "shop": "Lidl",
-     "product": "Bujón Maggi",
-     "price": 39.9,
-     "pack": "180 g",
-     "perUnit": "22,17 Kč / 100 g",
-     "discountPct": null,
-     "club": false,
-     "validFrom": "2026-11-30",
-     "validTo": "2026-12-02",
-     "validText": "po 30. 11. – st 2. 12.",
-     "future": true
     }
    ]
   },
@@ -4471,8 +4497,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -4819,8 +4845,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5060,8 +5086,8 @@
      "discountPct": 48,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5073,8 +5099,8 @@
      "discountPct": 48,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5084,6 +5110,19 @@
      "pack": "1 kg",
      "perUnit": "12,90 Kč / 1 kg",
      "discountPct": 35,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
+     "shop": "FLOP",
+     "product": "Cibule kuchyňská žlutá",
+     "price": 12.9,
+     "pack": "1 kg",
+     "perUnit": "12,90 Kč / 1 kg",
+     "discountPct": null,
      "club": false,
      "validFrom": null,
      "validTo": "2026-12-01",
@@ -5180,19 +5219,6 @@
      "validTo": "2026-12-01",
      "validText": "do úterý 1. 12.",
      "future": false
-    },
-    {
-     "shop": "Kaufland",
-     "product": "Cibule kuchyňská žlutá K-Jarmark",
-     "price": 59.9,
-     "pack": "5 kg",
-     "perUnit": "11,98 Kč / 1 kg",
-     "discountPct": null,
-     "club": false,
-     "validFrom": "2026-11-30",
-     "validTo": "2026-12-01",
-     "validText": "po 30. 11. – út 1. 12.",
-     "future": true
     }
    ]
   },
@@ -5387,8 +5413,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5400,8 +5426,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5452,8 +5478,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5548,8 +5574,8 @@
      "discountPct": 44,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5561,8 +5587,8 @@
      "discountPct": 44,
      "club": true,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5587,8 +5613,8 @@
      "discountPct": 40,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5665,8 +5691,8 @@
      "discountPct": 32,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5683,11 +5709,11 @@
      "future": false
     },
     {
-     "shop": "Hruška",
+     "shop": "FLOP",
      "product": "Okurka salátová - hadovka",
-     "price": 19.9,
+     "price": 16.9,
      "pack": "1 ks",
-     "perUnit": "19,90 Kč / 1 ks",
+     "perUnit": "16,90 Kč / 1 ks",
      "discountPct": null,
      "club": false,
      "validFrom": null,
@@ -5875,8 +5901,8 @@
      "discountPct": 30,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -5919,8 +5945,8 @@
      "discountPct": 50,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -6033,8 +6059,8 @@
      "discountPct": 28,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -6064,6 +6090,19 @@
      "future": false
     },
     {
+     "shop": "FLOP",
+     "product": "Salát ledový",
+     "price": 26.9,
+     "pack": "1 ks",
+     "perUnit": "26,90 Kč / 1 ks",
+     "discountPct": null,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
      "shop": "Albert",
      "product": "Salát ledový Bio",
      "price": 36.9,
@@ -6081,6 +6120,19 @@
   "spinach": {
    "query": "špenát",
    "offers": [
+    {
+     "shop": "FLOP",
+     "product": "Špenátový protlak mražený Nowaco",
+     "price": 14.9,
+     "pack": "450 g",
+     "perUnit": "3,31 Kč / 100 g",
+     "discountPct": null,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
     {
      "shop": "FLOP TOP",
      "product": "Špenátový protlak mražený Nowaco",
@@ -6101,6 +6153,19 @@
      "pack": "400 g",
      "perUnit": "6,22 Kč / 100 g",
      "discountPct": 28,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
+     "shop": "FLOP",
+     "product": "Špenát sekaný mražený Nowaco",
+     "price": 24.9,
+     "pack": "400 g",
+     "perUnit": "6,22 Kč / 100 g",
+     "discountPct": null,
      "club": false,
      "validFrom": null,
      "validTo": "2026-12-01",
@@ -6412,8 +6477,8 @@
      "discountPct": null,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -6436,6 +6501,19 @@
      "pack": "350 g",
      "perUnit": "7,69 Kč / 100 g",
      "discountPct": 29,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
+     "shop": "FLOP",
+     "product": "Hrášek mražený Nowaco",
+     "price": 26.9,
+     "pack": "350 g",
+     "perUnit": "7,69 Kč / 100 g",
+     "discountPct": null,
      "club": false,
      "validFrom": null,
      "validTo": "2026-12-01",
@@ -6479,19 +6557,6 @@
      "validFrom": null,
      "validTo": "2027-01-04",
      "validText": "do pondělí 4. 1.",
-     "future": false
-    },
-    {
-     "shop": "Penny",
-     "product": "Hrášek Jardinelle",
-     "price": 39.9,
-     "pack": "3x 200 g",
-     "perUnit": "6,65 Kč / 100 g",
-     "discountPct": 25,
-     "club": false,
-     "validFrom": null,
-     "validTo": "2026-12-01",
-     "validText": "do úterý 1. 12.",
      "future": false
     }
    ]
@@ -6834,8 +6899,8 @@
      "discountPct": 45,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
@@ -6858,6 +6923,19 @@
      "pack": "1 kg",
      "perUnit": "26,90 Kč / 1 kg",
      "discountPct": 27,
+     "club": false,
+     "validFrom": null,
+     "validTo": "2026-12-01",
+     "validText": "do úterý 1. 12.",
+     "future": false
+    },
+    {
+     "shop": "FLOP",
+     "product": "Banány",
+     "price": 26.9,
+     "pack": "1 kg",
+     "perUnit": "26,90 Kč / 1 kg",
+     "discountPct": null,
      "club": false,
      "validFrom": null,
      "validTo": "2026-12-01",
@@ -6956,8 +7034,8 @@
      "discountPct": 50,
      "club": false,
      "validFrom": null,
-     "validTo": "2026-11-29",
-     "validText": "do neděle 29. 11.",
+     "validTo": null,
+     "validText": "zítra končí",
      "future": false
     },
     {
